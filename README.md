@@ -1,0 +1,3 @@
+# RapportAI
+
+RapportAI is an AI support agent that resolves routine billing and account tickets by investigating real account data and written policy, then resolving, explaining, asking a human, or escalating. It's built to fail safe: the model never picks the customer, every write is idempotent and audited, refunds need approval, and a 200-ticket eval suite tracks the wrong-action rate on every change.
